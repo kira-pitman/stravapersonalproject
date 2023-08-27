@@ -1,4 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat&family=Roboto&display=swap');
+
 body {
-  background-color: #faf8f1;
-  color: #0a1520;
+  background-color: #2e1d05;
+  color: blanchedalmond;
+}
+
+h1 {
+  font-family: 'Montserrat';
+  font-style: bold;
+  font-size: 5vw;
+
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.count {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  font-family: 'Montserrat';
+  display: flex;
+  justify-content: center;
 }
